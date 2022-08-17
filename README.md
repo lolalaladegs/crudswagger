@@ -1,2 +1,2 @@
 # CRUD Swagger
-This is Spring Boot demo with CRUD(Create, Read, Update, Delete) operation.
+This is Spring Boot demo with CRUD(Create, Read, Update, Delete) operation with Swagger UI
