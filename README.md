@@ -1,7 +1,7 @@
 # Spring Boot CRUD with Swagger UI
 This is Spring Boot demo with CRUD(Create, Read, Update, Delete) operation with Swagger UI
 
-#Procedure on adding Swagger:
+# Procedure on adding Swagger:
 	• Add Swagger dependency
 		<dependency>
 		   <groupId>io.springfox</groupId>
